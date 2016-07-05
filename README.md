@@ -1,5 +1,5 @@
 # game_of_life
-# It's the game of Life. From Birth 'till Death.
+# It's the Game of Life. From Birth 'till Death.
 
 2-dimensional world, where the rabbits live.
 On every spot of the world (gridpoint) is a chance to let a rabbit live.
